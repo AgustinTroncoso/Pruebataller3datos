@@ -6,13 +6,13 @@
 1. Crear entorno virtual python:
 
 ```
-python -m venv venv
+python -m venv .venv
 ```
 
 O
 
 ```
-py -m venv venv
+py -m venv .venv
 ```
 
 2. Activar entorno virtual:
