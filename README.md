@@ -18,7 +18,7 @@ py -m venv .venv
 2. Activar entorno virtual:
 
 ```
-.\venv\Scripts\Activate
+.\.venv\Scripts\Activate
 ```
 
 3. Instalar dependencias:
